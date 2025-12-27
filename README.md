@@ -1,0 +1,2 @@
+# bendahara
+buat kas
